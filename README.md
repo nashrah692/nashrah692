@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nashrah Ahmed Khan! ✨<br><br>👩‍💻 BS Artificial Intelligence student at FAST NUCES <br>💻 I create desktop apps, mobile apps, and AI-driven solutions to stay consistent <br>🧠 I develop projects in Python, Java, and C++ using tools like TensorFlow, RDKit, and HNSW<br><br>
+Hi, I'm Nashrah Ahmed Khan! ✨<br><br>👩‍💻 BS Artificial Intelligence student at FAST NUCES <br>💻 I create AI-driven solutions to stay consistent <br>🧠 I develop projects in Python, Java, and C++ using tools like TensorFlow, RDKit, and HNSW<br><br>
 
 
 ## 🌐 Socials:
